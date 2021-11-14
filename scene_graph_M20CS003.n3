@@ -1,0 +1,11 @@
+<><#Title> “Scene Graph for Assignment-4” .
+<#Sun> <#right-of> <#Birds> .
+<#Sun> <#above> <#Mountains> .
+<#Birds> <#above> <#Mountains> .
+<#Mountains> <#above> <#River> .
+<#Mountains> <#above> <#House> .
+<#Tree> <#above> <#House> .
+<#House> <#above> <#Land> .
+<#House> <#right-of> <#Boat> .
+<#Land> <#right-of> <#River> .
+<#Boat> <#above> <#River> .
