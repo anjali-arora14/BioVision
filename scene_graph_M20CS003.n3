@@ -1,3 +1,4 @@
+@prefix pre: <#> .
 <> <#title>  "Scene Graph N3/RDF document".
 <#Sun> <#right-of> <#Birds> .
 <#Sun> <#above> <#Mountains> .
