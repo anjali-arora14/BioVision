@@ -1,11 +1,1 @@
-<> <#title>  "Scene Graph N3/RDF document".
-<#Sun> <#right-of> <#Birds> .
-<#Sun> <#above> <#Mountains> .
-<#Birds> <#above> <#Mountains> .
-<#Mountains> <#above> <#River> .
-<#Mountains> <#above> <#House> .
-<#Tree> <#above> <#House> .
-<#House> <#above> <#Land> .
-<#House> <#right-of> <#Boat> .
-<#Land> <#right-of> <#River> .
-<#Boat> <#above> <#River> .
+<http://example.org/book/book1> <http://purl.org/dc/elements/1.1/title> "SPARQL Tutorial" .
