@@ -1,7 +1,4 @@
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-
-<><#Title> “Scene Graph for Assignment-4” .
+<> <#title>  "Scene Graph N3/RDF document".
 <#Sun> <#right-of> <#Birds> .
 <#Sun> <#above> <#Mountains> .
 <#Birds> <#above> <#Mountains> .
